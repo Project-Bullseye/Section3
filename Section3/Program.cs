@@ -7,15 +7,15 @@ namespace Section3
         static void Main(string[] args)
         {
 
-            bool playAgain = true;
 
+            bool playAgain = true;
             while (playAgain)
             {
 
+
+
+
                 //This might be where the rest of the code is
-
-
-
 
 
                 Console.WriteLine("Do you want to go again?");
@@ -33,8 +33,6 @@ namespace Section3
 
                 }
             }
-
-
         }
     }
 }
